@@ -12,7 +12,7 @@ github_repo: "https://github.com/serenaxxsun/serenaxxsun.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Keep on going never give up."
-sidebar-avatar: /img/about-by-serena.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-author.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
